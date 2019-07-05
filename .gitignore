@@ -1,3 +1,5 @@
 tmp/todo.txt
 tmp/*.todo
 *.xml
+tmp/*.txt
+tmp/*.lymbo
